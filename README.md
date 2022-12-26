@@ -6,9 +6,12 @@ Sockets and the socket API are used to send messages across a network. They prov
 # Useage
 We will have to start our Server first.
 ```
-Python Server.py
+Python server.py
 ```
 
 Run the Client file, to start the conversation.
+```
+Python client.py
+```
 
 Now Enter a nickname and start your chatting.
